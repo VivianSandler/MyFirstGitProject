@@ -1,3 +1,8 @@
 Hello again, Git! I'm excited to be learning more about you. You're going to make collaborating on projects awesome!
 
 Git is essential to learn for those interested in entering the software development world.
+
+About Vivian:
+
+Vivian is an aspiring front-end web developer who is currently learning HTML, CSS, JavaScript, and React with TechLabs' #codeAtHome Bootcamp. 
+She is excited about everything she's learning (even when it can be confusing!) and looks forward to her future in tech!
